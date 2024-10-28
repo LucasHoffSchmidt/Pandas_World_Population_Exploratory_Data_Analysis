@@ -1,5 +1,5 @@
 # Python Pandas World Population Exploratory Data Analysis
-In this project we analysed patterns in world population data for the last 50 years using Jupyter Notebook.
+In this project we used python in Jupyter Notebook to analyse patterns in world population data.
 
 ## Tools and technologies
 - **Jupyter Notebook**
