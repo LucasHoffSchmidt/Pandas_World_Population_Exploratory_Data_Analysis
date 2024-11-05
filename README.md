@@ -5,9 +5,8 @@ In this project we used python in Jupyter Notebook to analyse patterns in world 
 - **Jupyter Notebook**
 - **Python**:
   - pandas
-  - numpy
   - seaborn
-  - matplotlib
+  - matplotlib.pyplot
 
 ## Project Objectives
 - Analyse patterns in the world population over the last 50 years
