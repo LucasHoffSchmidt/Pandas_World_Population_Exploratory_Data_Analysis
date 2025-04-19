@@ -23,7 +23,7 @@ In this project we used pandas to analyse patterns in world population data over
 - Used groupby(), mean() and sort_values() to get the mean of each continent, sorted by the 2022 population descendingly.
 - Filtered Oceania countries with str.contains().
 - Listed all column names with .columns.
-- Created a new dataframe with population means of continents, sorted and transposed with transpose() to show continents in the columns and populations in the rows. 
+- Created a new dataframe with sorted population means of continents and transposed it with transpose() to show continents in the columns and populations in the rows. 
 - Plotted population growth using plot(). 
 - Detected outliers with boxplot().
 
