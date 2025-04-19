@@ -6,7 +6,7 @@ In this project we used pandas to analyse patterns in world population data.
 - Jupyter notebook of exploratory data analysis of the world population dataset. [Jupyter Notebook](world_population_data_exploration_project.ipynb)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
-## Tools Used
+## Technologies Used
 - **Jupyter Notebook**: Web-based interactive computing environment. 
 - **Pandas**: Dataset interaction and transformations. 
 - **Matplotlib**: Data visualizations and formatting. 
